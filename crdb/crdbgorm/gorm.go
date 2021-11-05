@@ -18,7 +18,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/cockroachdb/cockroach-go/v2/crdb"
+	"github.com/geekhsy/cockroach-go/v2/crdb"
 	"gorm.io/gorm"
 )
 
